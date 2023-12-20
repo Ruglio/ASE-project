@@ -1,0 +1,4 @@
+﻿;cap;cost;max_dist;land_cost
+AEA;30;15;200;100
+HEA;30;20;400;100
+Conventional;90;45;2100;500

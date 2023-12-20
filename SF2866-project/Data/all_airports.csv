@@ -1,0 +1,206 @@
+,name,IATA-kod,ICAO-kod,pass_2019,pass_2020,geometry,status,type
+0,Stockholm-Arlanda flygplats,ARN,ESSA,25 642 703,6 535 776,POINT (17.93861961 59.64980316),open,Swd
+1,Göteborg-Landvetter flygplats,GOT,ESGG,6 671 361,1 576 787,POINT (12.28727818 57.66451263),open,Swd
+2,Stockholm-Bromma flygplats,BMA,ESSB,2 354 051,479 400,POINT (17.94678307 59.35702896),open,Swd
+3,Malmö Airport (Sturup),MMX,ESMS,1 975 842,526 154,POINT (13.3716898 55.53546143),open,Swd
+4,Luleå-Kallax flygplats,LLA,ESPA,1 162 424,420 231,POINT (22.11975479 65.54638672),open,Swd
+5,Umeå Airport,UME,ESNU,960 284,292 731,POINT (20.28625488 63.79077911),open,Swd
+6,Åre Östersunds flygplats,OSD,ESNZ,473 628,140 586,POINT (16.6271988 59.60213195),open,Swd
+7,Visby flygplats,VBY,ESSV,446 864,122 744,POINT (18.34523964 57.66231918),open,Swd
+8,Kiruna flygplats,KRN,ESNQ,267 916,110 456,POINT (20.33342934 67.8212738),open,Swd
+9,Ronneby Airport,RNB,ESDF,204 679,50 864,POINT (15.27101803 56.26460266),open,Swd
+10,Arvidsjaurs flygplats,AJR,ESNX,58769,40 030,POINT (19.27456284 65.59220886),open,P
+11,"Borlänge, Dala Airport",BLE,ESSD,21377,4 794,POINT (15.51051712 60.42327499),open,P
+12,Gällivare Lapland Airport,GEV,ESNG,27138,8 748,POINT (20.81499672 67.13253784),open,P
+13,Hagfors flygplats,HFS,ESOH,3299,659,POINT (13.57822037 60.02272034),open,P
+14,Halmstads flygplats,HAD,ESMT,124415,31 584,POINT (12.85748291 56.67398071),open,P
+15,Hemavan Tärnaby Airport,HMV,ESUT,12075,5 583,POINT (15.08346176 65.80632019),open,P
+16,Jönköpings flygplats,JKG,ESGJ,66601,12 172,POINT (14.16571903 57.78256226),open,P
+17,Kalmar flygplats,KLR,ESMQ,232049,52 868,POINT (16.28347778 56.68473816),open,P
+18,Karlstads flygplats,KSD,ESOK,52009,10 900,POINT (13.50276279 59.38091278),open,P
+19,Kramfors-Sollefteå Höga Kusten Airport,KRF,ESNK,8489,1 772,POINT (17.76606178 63.04914474),open,P
+20,Kristianstad Österlen Airport,KID,ESMK,40444,6 442,POINT (14.08672428 55.91998291),open,P
+21,Linköping-Saabs flygplats,LPI,ESSL,144585,33 525,POINT (15.62452507 58.40981293),open,P
+22,Lycksele flygplats,LYC,ESNL,18048,6 530,POINT (18.71338844 64.54975128),open,P
+23,Norrköping-Kungsängens flygplats,NRK,ESSP,103298,17 899,POINT (16.6271988 59.60213195),open,P
+24,Pajala Airport,PJA,ESUP,6315,935,POINT (23.36472893 67.20903778),open,P
+25,Skellefteå flygplats,SFT,ESNS,287098,94 699,POINT (21.08051109 64.6242218),open,P
+26,Stockholm-Skavsta flygplats (Nyköping),NYO,ESKN,2296310,573 229,POINT (16.92242432 58.78472519),open,P
+27,Stockholm-Västerås flygplats,VST,ESOW,109133,36 968,POINT (16.54636765 59.61109924),open,P
+28,Sundsvall-Timrå flygplats (Midlanda),SDL,ESNN,231814,42 800,POINT (17.3071022 62.3907547),open,P
+29,Sveg Härjedalens flygplats,EVG,ESND,5525,2 380,POINT (16.6271988 59.60213195),open,P
+30,Sälen-Scandinavian Mountains flygplats,SCR,ESKS,773,14 157,POINT (12.841667 61.158333),open,P
+31,Torsby flygplats  (Fryklanda),TYF,ESST,2494,277,POINT (13.00678825 60.13552094),open,P
+32,Trollhättan-Vänersborgs flygplats,THN,ESGT,37634,6 057,POINT (12.34457207 58.31798935),open,P
+33,Vilhelmina flygplats,VHM,ESNV,12387,5 489,POINT (16.65439224 64.6257019),open,P
+34,Växjö-Kronobergs flygplats,VXO,ESMX,278397,50 273,POINT (14.7322894 56.92434045),open,P
+35,Ängelholm-Helsingborg flygplats,AGH,ESTA,386519,110 142,POINT (16.6271988 59.60213195),open,P
+36,Örebro flygplats,ORB,ESOE,77259,13 114,POINT (15.05159173 59.24286598),open,P
+37,Örnsköldsvik Airport,OER,ESNO,85541,14 976,POINT (18.71602058 63.28886032),open,P
+38,Alingsås,,ESGI,,,POINT (12.53296757 57.92996597),open,NP
+39,Anderstorp,,ESMP,,,POINT (13.63682079 57.28298187),open,NP
+40,Arboga flygplats,,ESQO,,,POINT (15.83966446 59.39418793),open,NP
+41,Arbrå,,ESUB,,,POINT (16.37496376 61.47308731),open,NP
+42,Arvika flygplats (Westlanda),,ESKV,,,POINT (12.59162235 59.6543541),open,NP
+43,Avesta (Rembo),,ESVA,,,POINT (16.11766624 60.18687439),open,NP
+44,Björkvik,,ESKX,,,POINT (16.51774979 58.83641815),open,NP
+45,Byholma flygplats,,ESFY,,,POINT (18.81772041 60.10851669),closed,NP
+46,Bodens helikopterflygplats,,ESPG,,,POINT (21.691389 65.810278),closed,NP
+47,Boden-Heden,,ESPJ,,,POINT (21.95088577 65.88623047),closed,NP
+48,Bollnäs,,,,,POINT (16.39720154 61.35129929),open,NP
+49,Borgholm (Borglanda),,ESMB,,,POINT (16.65613747 56.87992859),open,NP
+50,Borås flygplats (Viared),,ESGE,,,POINT (12.94074059 57.72108459),open,NP
+51,Bunge flygfält,,ESVB,,,POINT (19.023333 57.853611),open,NP
+52,Byxelkrok (Ölanda),,ESMZ,,,POINT (17.01526642 57.32669067),open,NP
+53,Dala-Järna,,ESKD,,,POINT (14.36798763 60.54804611),open,NP
+54,Degerfors (Grenlanda),,,,,POINT (14.42973137 59.23612213),open,NP
+55,Edsbyn,,ESUY,,,POINT (15.81817532 61.37744141),open,NP
+56,Ekshärads flygplats,,ESKH,,,POINT (13.4933691 60.17464066),open,NP
+57,Eksjö-Ränneslätt flygfält,,ESMC,,,POINT (14.95148945 57.67026901),open,NP
+58,Emmaboda,,ESMA,,,POINT (15.54066181 56.63083267),open,NP
+59,Enköping (Långtora),,ESVL,,,POINT (17.1433773 59.7239418),open,NP
+60,Eskilstuna/Ekeby,,ESSC,,,POINT (16.44620514 59.37784958),open,NP
+61,Eskilstuna-Kjula flygplats,EKT,ESSU,,,POINT (16.67754936 59.38769913),open,NP
+62,Eslöv,,ESME,,,POINT (13.30362606 55.83749771),open,NP
+63,Fagerhult,,ESMF,,,POINT (15.66363049 57.14779663),open,NP
+64,Falkenberg (Falklanda),,,,,POINT (12.49129295 56.90489578),closed,NP
+65,Falkenberg (Morup),,ESGF,,,POINT (12.39569473 56.98093796),open,NP
+66,Falköpings flygplats,,ESGK,,,POINT (13.55424118 58.16950989),open,NP
+67,Falköping/Ålleberg,,ESGC,,,POINT (13.60219669 58.13572693),open,NP
+68,Fällfors flygplats,,ESUF,,,POINT (20.79393578 65.12744141),closed,NP
+69,Filipstad (Brattforsheden),,ESSM,,,POINT (14.17032623 59.70853043),open,NP
+70,Finnskoga (Backa),,,,,POINT (11.98277473 57.74761963),open,NP
+71,Finspång,,,,,POINT (15.7758646 58.70772934),open,NP
+72,Fjällbacka flygfält,,ESTF,,,POINT (11.28278065 58.59875488),open,NP
+73,Frändefors (Björnlanda),,,,,POINT (12.27824306 58.50005722),closed,NP
+74,Färila flygplats,,ESNF,,,POINT (15.84376526 61.79814911),closed,NP
+75,Gagnef (Himmelslätta),,ESVG,,,POINT (15.07568359 60.59224701),open,NP
+76,Gargnäs,,ESUG,,,POINT (17.96966171 65.31197357),open,NP
+77,Gnesta (Vängsö),,ESSZ,,,POINT (17.2233448 59.10002136),open,NP
+78,Gimo flygplats,,ESKA,,,POINT (18.18861771 60.16773605),open,NP
+79,Gryttjom,,ESKG,,,POINT (17.82505989 60.19686508),open,NP
+80,Grönhögen,,ESTG,,,POINT (16.4022789 56.26940536),open,NP
+81,Gäddede (Frostlanda),,,,,POINT (14.14613914 64.50279236),open,NP
+82,Gävle flygplats (Gestrike Airport),GVX,ESSK,,,POINT (16.9518795 60.59460068),open,NP
+83,Götene (Brännebrona),,ESGN,,,POINT (13.6078701 58.57753372),open,NP
+84,Göteborg City Airport (Säve),GSE,ESGP,,,POINT (11.87608051 57.77682114),open,NP
+85,Hagshult flygbas,,ESMV,,,POINT (14.136944 57.292222),open,NP
+86,Hasslösa flygplats,,ESFH,,,POINT (13.27180099 58.42903137),closed,NP
+87,Hede (Hedlanda flygplats),,ESNC,,,POINT (17.25491142 59.24212646),open,NP
+88,Herrljunga,,ESGH,,,POINT (13.02692509 58.07692719),open,NP
+89,Hudiksvalls flygplats,HUV,ESNH,,,POINT (17.08149719 61.76787567),open,NP
+90,Hultsfreds flygplats,HLF,ESSF,,,POINT (15.84281445 57.48983383),open,NP
+91,Hällefors flygfält (Örling),,ESVH,,,POINT (14.5221138 59.7837944),open,NP
+92,Härnösand (Myran),,ESUH,,,POINT (17.98753548 62.63063431),open,NP
+93,Hässleholm/Bokeberg,,ESFA,,,POINT (13.75807762 56.1587677),open,NP
+94,Hässleholm/Vankiva,,ESMD,,,POINT (13.74150181 56.20036316),closed,NP
+95,Höganäs,,ESMH,,,POINT (12.5515852 56.20085526),open,NP
+96,Idre flygplats,IDB,ESUE,,,POINT (12.71684647 61.85842896),open,NP
+97,Jokkmokks flygbas,,ESNJ,,,POINT (20.147222 66.496111),open,NP
+98,Jönköping/Ödestugu,,,,,POINT (14.29153728 57.61653137),open,NP
+99,Karlsborgs flygplats,,ESIA,,,POINT (14.5054884 58.53590775),open,NP
+100,Karlsborg/Flugebyn,,,,,POINT (14.46855354 58.59432602),open,NP
+101,Karlskoga flygplats,KSK,ESKK,,,POINT (14.51769066 59.32916641),open,NP
+102,Katrineholm,,ESVK,,,POINT (16.20156288 58.99183655),open,NP
+103,Kiruna-Kalixfors,,ESUK,,,POINT (20.26732445 67.84386444),open,NP
+104,Knislinge flygplats,,ESFI,,,POINT (14.08513927 56.19420242),open,NP
+105,Kosta flygbas,,ESFQ,,,POINT (14.94693735 56.68111225),closed,NP
+106,"Kubbe flygfält 
+(tidigare Sveriges största till ytan men numera nedlagt)",,ESNI,,,POINT (18.05976295 63.52312469),closed,NP
+107,Kågeröd (Simmelsberga),,ESMJ,,,POINT (13.08831406 55.99905777),open,NP
+108,Köping/Gålby flygfält,,ESVQ,,,POINT (15.95913219 59.53721619),open,NP
+109,Landskrona (Enoch Thulins flygplats),,ESML,,,POINT (12.8443322 55.88326045),open,NP
+110,Laxå flygfält (Vena),,ESSH,,,POINT (14.61882687 58.9853363),open,NP
+111,Lidköping-Hovby flygplats,LDK,ESGL,,,POINT (13.12286282 58.4525032),open,NP
+112,Lidköping-Såtenäs flygplats,,ESIB,,,POINT (12.7007637 58.44213104),open,NP
+113,Lidköping-Råda,,ESFR,,,POINT (13.09595871 58.49402618),open,NP
+114,Lindesberg (Gammelbo),,,,,POINT (15.2264967 59.59305573),closed,NP
+115,Linköping/Malmen flygplats,,ESCF,,,POINT (16.6271988 59.60213195),open,NP
+116,Ljungby/Feringe flygplats,,ESMG,,,POINT (13.9260416 56.96120834),open,NP
+117,Ljungbyheds flygplats,,ESTL,,,POINT (13.23356247 56.07444382),open,NP
+118,Ljusdal (Forsnäset),,ESUL,,,POINT (16.0953598 61.82937622),open,NP
+119,Ludvika flygplats,,ESSG,,,POINT (15.18139935 60.15037537),open,NP
+120,Lund-Hasslanda flygplats (stängd),,ESMN,,,POINT (13.19294453 55.70293045),open,NP
+121,Malmö Heliport,JMM,ESHM,,,POINT (13.0001564 55.60529327),"Är nu stängd men hade på 1990-talet passkontroll
+och reguljära helikopterflygningar till Kastrup,
+ innanför dess passkontroll. Den enda
+svenska helikopterplattan som haft IATA-kod.",NP
+122,Malung (Skinnlanda),,ESVM,,,POINT (13.70943642 60.68312073),open,NP
+123,Mellansels flygplats,,ESUI,,,POINT (18.30882263 63.42477036),open,NP
+124,Malå,,,,,POINT (18.74653625 65.18648529),open,NP
+125,Moholm-Bällefors flygbas,,ESFM,,,POINT (14.03833961 58.60702896),open,NP
+126,Mora-Siljan flygplats,MXX,ESKM,,,POINT (14.79538822 60.86909485),open,NP
+127,Motala (Skärstad),,,,,POINT (15.11685181 58.49420166),open,NP
+128,Munkfors,,ESKO,,,POINT (13.5447607 59.84075928),open,NP
+129,Norbergs flygfält,,,,,POINT (15.950278 60.107222),open,NP
+130,Norrtälje (Mellingeholm),,ESSN,,,POINT (18.87244987 59.75737762),open,NP
+131,Norrköping/Bråvalla flygplats,,ESCK,,,POINT (16.19035149 58.59091187),closed,NP
+132,Orsa-Tallhed flygfält,,ESNR,,,POINT (14.70787621 61.21227646),open,NP
+133,Oskarshamns flygplats,OSK,ESMO,,,POINT (16.44434738 57.26328278),open,NP
+134,Oviken,,ESUO,,,POINT (14.39286709 62.99748611),open,NP
+135,Piteå flygfält,,ESNP,,,POINT (21.49002457 65.31346893),open,NP
+136,Ramsele,,ESUR,,,POINT (16.4686985 63.53809738),open,NP
+137,Rimbo (Gavellanda),,,,,POINT (18.36017609 59.74531937),open,NP
+138,Salanda (Sala),,,,,POINT (16.630856 59.894686),open,NP
+139,Sandvik (Mellanlanda),,ESFS,,,POINT (16.697876 56.87874),open,NP
+140,Siljansnäs flygplats,,ESVS,,,POINT (14.85769653 60.77539063),open,NP
+141,Sjöbo-Björka flygbas,,ESFJ,,,POINT (13.63327217 55.65673828),open,NP
+142,Sjöbo (Sövde),,ESMI,,,POINT (13.67359734 55.58503342),open,NP
+143,Skövde flygplats,KVB,ESGR,,,POINT (13.84437943 58.3898468),open,NP
+144,Smålandsstenar (Smålanda),,ESMY,,,POINT (13.4115591 57.16269684),open,NP
+145,Sollefteå (Långsele),,ESNB,,,POINT (17.06710243 63.17849731),open,NP
+146,Staffanstorp (Bjällerup),,,,,POINT (13.21139908 55.64273834),open,NP
+147,Stockholm/Frölunda,,,,,POINT (17.80425453 59.06198883),open,NP
+148,Stockholm/Hova,,,,,POINT (17.78423119 59.68309402),open,NP
+149,Stockholm/Lindholmen,,,,,POINT (18.10517883 59.58441544),open,NP
+150,Stockholm/Skå-Edeby,,ESSE,,,POINT (17.76348495 59.34154129),open,NP
+151,Strängnäs,,f.d. ESKS,,,POINT (17.02681923 59.37631607),open,NP
+152,Stockholm-Vassunda (Vasslanda),,,,,POINT (18.07109261 59.32511902),open,NP
+153,Stockholm-Vallentuna,,,,,POINT (18.19859886 59.58764648),open,NP
+154,Storumans flygplats,SQO,ESUD,,,POINT (17.11797142 65.09507751),open,NP
+155,Storvik/Lemstanäs flygfält Västra Gästrike Flygklubb,,ESOL,,,POINT (16.52536583 60.58285141),open,NP
+156,Strömstad (Näsinge flygplats),,ESGS,,,POINT (11.17360973 58.93775558),open,NP
+157,Strömsund (Hallviken),,ESNA,,,POINT (15.48250103 63.731987),open,NP
+158,Stånga,,,,,POINT (18.47142792 57.28144455),open,NP
+159,Stöde (Prästbordet),,,,,POINT (16.57827187 62.41777802),open,NP
+160,Sundbro flygplats,,ESKC,,,POINT (17.53104591 59.92692184),open,NP
+161,Sunne-Holmby flygplats,,ESKU,,,POINT (13.05991268 59.89690399),open,NP
+162,Svenstavik,,,,,POINT (14.43242264 62.76680756),open,NP
+163,Såtenäs flygplats,,ESIB,,,POINT (12.7007637 58.44213104),open,NP
+164,Säffle flygplats,,ESGY,,,POINT (12.92486763 59.13293076),open,NP
+165,Söderhamns flygplats,SOO,ESNY,,,POINT (17.0607605 61.29985046),open,NP
+166,Söderhamn-Mohed flygfält,,ESUM,,,POINT (16.82705116 61.29454041),open,NP
+167,Tidaholm (Bämmelshed),,ESGD,,,POINT (13.95969963 58.18037033),open,NP
+168,Tierps flygfält (f.d. Tierp flygbas),,ESKT,,,POINT (17.51683998 60.34296036),open,NP
+169,Tingsryd,,ESMW,,,POINT (14.97718811 56.52790451),closed,NP
+170,Tomelilla,,ESTO,,,POINT (13.95412254 55.54379654),open,NP
+171,Trelleborg (Maglarp) (Stängt ersatt av Vellinge/Söderslätt ESTT),,ESMR,,,POINT (13.08072662 55.3884201),closed,NP
+172,Torslanda flygfält,GOT,ESGB,,,POINT (11.76534271 57.72437286),closed,NP
+173,Troslanda (Trosa),,,,,POINT (11.76534271 57.72437286),open,NP
+174,Uddevalla/Backamo,,ESGA,,,POINT (11.98590469 58.18200684),open,NP
+175,Uddevalla/Rörkärr,,ESGU,,,POINT (11.78058338 58.36872101),open,NP
+176,Ulricehamn (Timmele),,,,,POINT (13.41304302 57.79138565),open,NP
+177,Uppsala-Ärna flygplats (f d F 16),,ESCM,,,POINT (17.2514303 60.38510855),open,NP
+178,Uråsa flygbas,,ESFU,,,POINT (14.946667 56.681389),closed,NP
+179,Varbergs flygplats (Getteröns flygfält),,ESGV,,,POINT (12.25029469 57.10573959),open,NP
+180,Vellinge/Söderslätt,,ESTT,,,POINT (13.01994514 55.47089386),open,NP
+181,Vidsels flygplats,,ESPE,,,POINT (20.5200882 65.83360291),open,NP
+182,Vindelns flygplats,,,,,POINT (19.71973991 64.20217896),open,NP
+183,Visingsö,,ESSI,,,POINT (14.34015179 58.04826355),open,NP
+184,Vuollerim,,,,,POINT (20.60241699 66.4295578),open,NP
+185,Vårgårda flygplats,,ESGO,,,POINT (12.80904102 58.03165054),open,NP
+186,Värnamo-Hagshult,,ESMV,,,POINT (14.04109764 57.18490219),open,NP
+187,Västerviks flygplats,VVK,ESSW,,,POINT (16.6287117 57.75808716),open,NP
+188,Västerås/Johannisbergs flygfält,,ESSX,,,POINT (16.54636765 59.61109924),open,NP
+189,Växjö/Kronobergshed,,,,,POINT (14.80943871 56.87871933),open,NP
+190,Ålåsen,,,,,POINT (14.60446548 63.86667252),open,NP
+191,Åmsele flygbas,,ESUA,,,POINT (19.34568024 64.52928925),closed,NP
+192,Ånge (Tälje),,ESUJ,,,POINT (15.86188126 62.55565262),open,NP
+193,Åre (Molanda),,,,,POINT (13.08222389 63.40108871),open,NP
+194,Åsele (Genlanda),,ESUS,,,POINT (17.35581398 64.16042328),open,NP
+195,Älmhult (Möckeln),,ESMU,,,POINT (14.15342903 56.5802803),open,NP
+196,Älvdalen,,,,,POINT (14.03739452 61.22990036),open,NP
+197,Älvsbyn-Högheden flygfält,,ESUV,,,POINT (21.03560829 65.6394577),open,NP
+198,Öresten flygfält,,ESGM,,,POINT (12.646667 57.444444),open,NP
+199,Östersund-Optand flygfält,,ESNM,,,POINT (14.78264618 63.1205368),open,NP
+200,Överkalix (Naisheden),,ESNE,,,POINT (22.84368896 66.32705688),open,NP
